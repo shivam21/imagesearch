@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/col2"
+        android:title="2 Columns" />
+    <item
+        android:id="@+id/col3"
+        android:title="3 Columns" />
+    <item
+        android:id="@+id/col4"
+        android:title="4 Columns" />
+
+</menu>
